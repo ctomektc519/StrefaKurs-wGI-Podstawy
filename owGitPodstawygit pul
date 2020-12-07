@@ -1,0 +1,97 @@
+[33mcommit f1f733ac7cfffa1890b5883924cd1b235aed832d[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: d22c012 2b07fd1
+Author: Tomasz Cieslik <ctomek@o2.pl>
+Date:   Sat Nov 28 06:15:56 2020 +0100
+
+    Merge branch 'main' of github.com:ctomektc519/StrefaKursowGitPodstawy into main
+--
+[33mcommit 2b07fd1eeed6d416bcc8f2bc65eb0af2e91983ab[m
+Merge: 287bb7a 6fb9b24
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Sat Nov 28 06:08:50 2020 +0100
+
+    Merge pull request #2 from ctomektc519/branch_VS
+    
+    comit w branchu2
+
+[33mcommit 6fb9b24f8f77d1e2f50bea0bc63de500750964d0[m[33m ([m[1;31morigin/branch_VS[m[33m)[m
+Merge: 326bf75 287bb7a
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Sat Nov 28 06:08:31 2020 +0100
+
+    Merge branch 'main' into branch_VS
+
+[33mcommit d22c01239c7450dbeedd15a4d635e083ff3b7abd[m
+Author: Tomasz Cieslik <ctomek@o2.pl>
+Date:   Sat Nov 28 06:04:58 2020 +0100
+
+    Zatwierdzenie lokalne
+
+[33mcommit 326bf75d04d3bc662b39c855440cd3e7026161fc[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Sat Nov 28 06:01:01 2020 +0100
+
+    comit w branchu
+
+[33mcommit 287bb7a2350ca25b6ef74aff24af889a2c7cda2d[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Sat Nov 28 05:59:54 2020 +0100
+
+    Commit w Main
+
+[33mcommit 37819ebea9802ecd308bce156d5549c8ab0e63c3[m
+Author: Tomasz Cieslik <ctomek@o2.pl>
+Date:   Sat Nov 28 05:53:08 2020 +0100
+
+    ZmianaVS1
+
+[33mcommit e7632eef4833b7433db45ec9084a5c6fd969ddc6[m
+Author: Tomasz Cieslik <ctomek@o2.pl>
+Date:   Wed Nov 25 06:33:20 2020 +0100
+
+    Commi VS
+
+[33mcommit bc49ec540dfdb750fbd98a721f3739a599dafbe4[m[33m ([m[1;32mbranch_VS[m[33m)[m
+Merge: 619a806 61dd44c
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Mon Nov 23 06:20:33 2020 +0100
+
+    Merge pull request #1 from ctomektc519/fix
+    
+    Update README.md
+
+[33mcommit 61dd44cb1eb26df541359397184f6b03849e720d[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Mon Nov 23 06:03:11 2020 +0100
+
+    Update README.md
+
+[33mcommit 619a806e154944a2fe78f55687ce5711703abbf2[m[33m ([m[1;31morigin/fix[m[33m, [m[1;32mid[m[33m, [m[1;32mfix[m[33m)[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Sat Nov 21 06:43:35 2020 +0100
+
+    Testowa zmiana dla Brancha
+
+[33mcommit a585cd7b82d43fd3dccb17ae76d8492b2d2d8b3c[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Fri Nov 20 07:04:03 2020 +0100
+
+    added bashrc
+
+[33mcommit 29c7eb16a306575e253910254705c743a5edd966[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Wed Nov 18 06:21:18 2020 +0100
+
+    Update branch name
+
+[33mcommit ab0e3e03e74af926f1a48b40caf5b29ec3239d6c[m
+Author: Tomasz Cieslik <tc519@interia.pl>
+Date:   Wed Nov 18 06:02:36 2020 +0100
+
+    Pierwszy commit na zdalnym repo
+
+[33mcommit e0e35043f5daa7aab592b7dd8cea4f5fbf5694f1[m
+Author: ctomektc519 <74170490+ctomektc519@users.noreply.github.com>
+Date:   Mon Nov 9 07:01:35 2020 +0100
+
+    Initial commit
