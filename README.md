@@ -1,10 +1,7 @@
 
-# StrefaKursówGIT-PodstawywGI-Podstawy commit w branchu
+# StrefaKursówGIT-Podstawy GIT
 
 Nauka podstaw GIT
 
-./yourshell - zawiera skrypt powloki do wyświetlania informacji o branch name (branch)
+Testowe repozytorium
 
----
-Dodanie zmian w postaci VS Code
-zmiana w main
